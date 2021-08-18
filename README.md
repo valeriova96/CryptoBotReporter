@@ -1,6 +1,6 @@
 # CryptoBotReporter #
 
-A Python program that fetches specific data from [Coin Market Cap](https://coinmarketcap.com/) and saves it in a .json file some useful information.
+A Python program that fetches specific data from [Coin Market Cap](https://coinmarketcap.com/), and saves in a .json file some useful information.
 
 ## What does the reporter retrieve ##
 
