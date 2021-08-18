@@ -12,3 +12,8 @@ When started, the reporter will enter in an infinite cycle and every 10 minutes 
 * _top_20_expense_: the amount of money needed to buy one unit of each of the top 20 currencies (according to [Coin Market Cap's](https://coinmarketcap.com/) ranking)
 * _top_volume_expense_: the amount of money needed to buy one unit of each currency having a volume larger than $76.000.000;
 * _percentage_change_: the overall percentage (positive or negative) obtained by the possible purchase of each one of the top 20 currencies [Coin Market Cap's](https://coinmarketcap.com/) of the last 24 hours (we imagine that the purchase happened the day before);
+
+## What do you need to do to run this program ##
+
+By opening the _main.py_ file you can notice the ```from config import my_api_key```.
+In order to run the reporter, you need to get *YOUR* personal API key of Coin Market Cap at the following [link](https://pro.coinmarketcap.com/signup).
